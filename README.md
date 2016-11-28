@@ -1,4 +1,4 @@
-`
+```
 module.exports = {
    config: {
      // default font size in pixels for all tabs
@@ -51,4 +51,4 @@ module.exports = {
    // to load it and avoid it being `npm install`ed
    localPlugins: []
  };
-`
+```
